@@ -30,7 +30,7 @@
 - **YouTube Trailer:** [Watch Here](https://youtu.be/suNZLquZLgM)
 
 ## 📜 Credits
-- **Developer:** Bas (@chimeracorelab)
+- **Developer:** @chimeracorelab
 - **Audio/SFX:** Taira Komori, Vita-chi sozaikan
 - **3D Assets:** Loafbrr
 - **Textures:** ambientCG
